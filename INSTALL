@@ -1,0 +1,9 @@
+Building Stepcoin
+
+See doc/readme-qt.rst for instructions on building Stepcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Stepcoin.
+
+See doc/build-*.txt for instructions on building stepcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Stepcoin.
